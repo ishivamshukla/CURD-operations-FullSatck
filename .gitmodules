@@ -1,0 +1,3 @@
+[submodule "CRUD-frontend"]
+	path = CRUD-frontend
+	url = https://github.com/ishivamshukla/CRUD-frontend.git
