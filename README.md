@@ -1,4 +1,4 @@
-# CRUD Operation - Full Satck JavaScript
+# CRUD Operations - Full Satck JavaScript
 
 > ## [Shivam Shukla](https://ishivamshukla.in)
 
